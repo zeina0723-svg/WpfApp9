@@ -24,6 +24,7 @@ namespace WpfApp9
         {
             InitializeComponent();
             int y;
+            int r;
         }
     }
 }
